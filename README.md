@@ -36,4 +36,4 @@ Based on above observations, its observed that following customers are likely to
 - Are neither students or unemployed
 - Without kids as passengers The acceptance is higher during morning hours before 11 AM.
 
-Link to 
+Link to notebook [notebook](https://github.com/manish237/AIMLCourseModule5/blob/main/analysis.ipynb)
